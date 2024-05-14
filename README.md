@@ -3,7 +3,7 @@ Sou estudante de Análise e desenvolvimento de sistemas.
 Atualmente tendo uma excelente experiência com desenvolvimento de aplicações web na área de automação comercial na ATX Soluções. 🔮
 
 
-🎲 Linguagens
+🎲 Linguagens que estou estudando no momento.
 
 <div style="display inline_block" ><br>
 <img align="center" height="30" widht="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
