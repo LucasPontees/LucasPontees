@@ -1,5 +1,5 @@
 Oi! Eu sou Lucas Pontes 👽
-Sou formado em Análise e desenvolvimento de sistemas.
+Sou formado em Análise e Desenvolvimento de Sistemas.
 Atualmente tendo uma excelente experiência com desenvolvimento de aplicações web na área de automação comercial na ATX Soluções. 🔮
 
 
