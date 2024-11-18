@@ -3,7 +3,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas.
 Atualmente tendo uma excelente experiência com desenvolvimento de aplicações web na área de automação comercial na ATX Soluções. 🔮
 
 
-🎲 Estou estudando no momento.
+🎲
 
 <div style="display inline_block" ><br>
 <img align="center" height="30" widht="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
