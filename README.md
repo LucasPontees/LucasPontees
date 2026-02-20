@@ -1,6 +1,6 @@
 # Lucas Pontes 🧙‍♂️
 
-Sou formado em Análise e Desenvolvimento de Sistemas, atuando no desenvolvimento de aplicações web com foco em automação comercial. Busco sempre aplicar as melhores práticas de desenvolvimento, utilizando tecnologias modernas e arquitetura sólida.
+Sou formado em Análise e Desenvolvimento de Sistemas e Pós graduado em Desenvolvimento Fullstack, atuando no desenvolvimento de aplicações web com foco em automação comercial. Busco sempre aplicar as melhores práticas de desenvolvimento, utilizando tecnologias modernas e arquitetura sólida.
 
 ---
 
@@ -8,6 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, atuando no desenvolviment
 
 - Desenvolvimento de sistemas de gestão financeira
 - Implementação e manutenção de sistemas fiscais
+- Implementação e Desenvolvimento de Sistemas Governamentais
 - Atuação em sistemas multiempresas, com gestão centralizada e segregação de dados
 
 ---
