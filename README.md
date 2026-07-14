@@ -2,6 +2,8 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas e Pós graduado em Desenvolvimento Fullstack, atuando no desenvolvimento de aplicações web com foco em automação comercial. Busco sempre aplicar as melhores práticas de desenvolvimento, utilizando tecnologias modernas e arquitetura sólida.
 
+I hold a degree in Systems Analysis and Development and a Postgraduate degree in Fullstack Development. I specialize in web application development with a focus on commercial automation. I am always striving to apply development best practices, using modern technologies and solid architecture.
+
 ---
 
 ## Experiência Profissional
